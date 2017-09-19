@@ -22,3 +22,4 @@ that shows all avaialble variables under the 'Execute shell' block under the 'Bu
 
 
 test
+test 2
