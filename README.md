@@ -18,8 +18,3 @@ Workspace Environment Variables
 ----------------------------------
 All plugins generate environmetn variables which can be seen in the list of available variables in the link
 that shows all avaialble variables under the 'Execute shell' block under the 'Build' Step action.
-
-
-
-test
-test 2
